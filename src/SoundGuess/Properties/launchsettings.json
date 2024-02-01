@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "SoundGuess (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "SoundGuess (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
